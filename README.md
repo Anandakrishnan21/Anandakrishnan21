@@ -7,7 +7,7 @@ I'm Anandakrishnan Dinej from India, and I do Web development and Designing. I r
 ## Skills and Exprerience
 * 💻 HTML, CSS, JS
 * ⚛ React
-* 📱Node
+* 📱Node, Express
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anandakrishnan21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anandakrishnan-dinej-29b737227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kricz_21/)  
