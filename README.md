@@ -5,7 +5,7 @@ I'm Anandakrishnan Dinej from India, and I do Web development and Designing. I r
 
 ## Skills and Exprerience
 * 💻 HTML, CSS, JS
-* ⚛ React
+* ⚛ React, TS
 * 📱Node, Express
 
 
