@@ -3,7 +3,7 @@
 
 I'm Anandakrishnan Dinej from India, and I do Web development and Designing. I really enjoy learning languages and frameworks like Express and React. I also enjoy wireframing, ui, ux, and design in general.
 
-## Skills and Exprerience
+## Skills and Experience
 * 💻 HTML, CSS, JS
 * ⚛ React, TS
 * 📱Node, Express
