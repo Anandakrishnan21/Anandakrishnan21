@@ -19,7 +19,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-As an indie full-stack developer, passionate about creating websites using new technologies. All my coding projects are built from the ground up, starting from the planning phase all the way to solving real-life problems with code. Currently, I am focused on learning more about React and Node.js.
+I'm an indie full-stack developer, passionate about creating websites using new technologies. All my coding projects are built from the ground up, starting from the planning phase all the way to solving real-life problems with code. Currently, I am focused on learning more about React.js and Node.js.
 </p>
 
 <h3 align="left">Languages and Tools</h3>
