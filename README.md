@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.instagram.com/kricz_21/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" /> alt="instagram" />
+  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" alt="instagram" /> 
 </a>
 
 </p>
