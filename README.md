@@ -4,21 +4,21 @@
 <p align="center">
 
 <a href="https://github.com/Anandakrishnan21" target="blank">
-  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" width="150" height="40" />
+  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" width="100" height="30" />
 </a>
 
 <a href="https://www.linkedin.com/in/anandakrishnan-dinej-29b737227/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-a?color=black&logo=linkedin" alt="linkedin" width="150" height="40" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-a?color=black&logo=linkedin" alt="linkedin" width="100" height="30" />
 </a>
 
 <a href="https://www.instagram.com/kricz_21/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" alt="instagram" width="150" height="40" /> 
+  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" alt="instagram" width="10" height="30" /> 
 </a>
 
 </p>
 
 <h3 align="left">About Me</h3>
-<p align="left">
+<p align="center">
 I'm an indie full-stack developer, passionate about creating websites using new technologies. All my coding projects are built from the ground up, starting from the planning phase all the way to solving real-life problems with code. Currently, I am focused on learning more about React.js and Node.js.
 </p>
 
