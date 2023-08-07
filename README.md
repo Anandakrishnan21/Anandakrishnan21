@@ -4,15 +4,15 @@
 <p align="center">
 
 <a href="https://github.com/Anandakrishnan21" target="blank">
-  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" width="60px" />
+  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" width="100" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/anandakrishnan-dinej-29b737227/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-a?color=black&logo=linkedin" alt="linkedin" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-a?color=black&logo=linkedin" alt="linkedin" width="100" height="40" />
 </a>
 
 <a href="https://www.instagram.com/kricz_21/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" alt="instagram" /> 
+  <img align="center" src="https://img.shields.io/badge/instagram-a?color=black&logo=instagram" alt="instagram" width="100" height="60" /> 
 </a>
 
 </p>
