@@ -4,7 +4,7 @@
 <p align="center">
 
 <a href="https://github.com/Anandakrishnan21" target="blank">
-  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" />
+  <img align="center" src="https://img.shields.io/badge/github-a?color=black&logo=github" alt="github" width="60px" />
 </a>
 
 <a href="https://www.linkedin.com/in/anandakrishnan-dinej-29b737227/" target="blank">
