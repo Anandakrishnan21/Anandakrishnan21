@@ -42,7 +42,7 @@ I'm an indie full-stack developer, passionate about creating websites using new 
 </a> 
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="next" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
